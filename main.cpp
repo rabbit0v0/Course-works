@@ -5,5 +5,6 @@ int f(){
 }
 int main(){
 	cout << a;
+	sxy beautiful
 	return 0;
 }
