@@ -5,6 +5,6 @@ int f(){
 }
 int main(){
 	cout << a;
-	sxy beautiful
+	sxy 
 	return 0;
 }
