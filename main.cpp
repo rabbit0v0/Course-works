@@ -1,10 +1,6 @@
+#include <iostream>
 
-#include "main.h"
-int f(){
-	return 2333;
-}
 int main(){
-	cout << a;
-	sxy 
+    cout << "wtf" << '\n';
 	return 0;
 }
