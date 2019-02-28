@@ -1,0 +1,37 @@
+\documentclass[12pt, a4paper]{article}
+\usepackage{ctex}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{latexsym}
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\definecolor{bgGray}{RGB}{36, 36, 36}
+\usepackage{supertabular}
+\usepackage{fontspec}
+\newfontfamily\courier{Courier}
+\usepackage{xcolor}
+\title{Testcase 2}
+\author{OOP2}
+\begin{document}
+\maketitle
+
+\tableofcontents
+
+\newpage
+
+\section{Section 1}
+
+\subsection{Subsection 1.1}
+
+\begin{align}
+S_n &= (n + 1)(n + 2)T_n \\
+&=(n + 1)(n + 2)H_{n + 2} + 2(n + 1) - \frac{5}{2}(n + 1)(n + 2) \\
+&=(n + 1)(n + 2)H_{n + 1} + 3(n + 1) - \frac{5}{2}(n + 1)(n + 2) \\
+S_{n - 1} &= (n + 1)nH_n + 3n - \frac{5}{2}(n + 1)n \\
+S_n &= (n + 1)(n + 2)H_n + (4n + 5) - \frac{5}{2}(n + 1)(n + 2) \\
+(5)-(4):
+E_n &= 2(n + 1)H_n +n + 5 - 5(n + 1) \\
+&=2(n + 1)H_n -4n
+\end{align}
+
+\end{document}
