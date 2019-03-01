@@ -1,0 +1,3 @@
+/Users/rabbit0v0/CLionProjects/SDT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/rabbit0v0/CLionProjects/SDT/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rabbit0v0/CLionProjects/SDT/cmake-build-debug/CMakeFiles/SDT.dir
